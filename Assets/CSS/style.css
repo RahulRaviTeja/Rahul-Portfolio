@@ -104,10 +104,10 @@ img{
 
 
 
-@media (max-width:580px) {
+@media (max-width:995px) {
 
  #content-wrapper{
-    padding-left: 20px;
+    padding-left: 40px;
  }
     
 }
